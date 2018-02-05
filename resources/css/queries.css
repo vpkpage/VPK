@@ -1,0 +1,495 @@
+
+@media only screen and (max-width: 1200px) {
+    
+    .header-text-box {
+        width: 100%;
+        padding: 0 2%;
+    }
+    body {
+        font-size: 18px;
+    }
+    .row {
+        padding: 0 2%;
+    }
+    
+   .date {
+        padding: 10px 20px 0 140px;
+}
+    .main-nav {
+        font-size: 20px;
+    }
+   
+    
+}
+
+
+@media only screen and (max-width: 1023px) {
+    body {
+        font-size: 16px;
+    }
+    .date {
+        padding: 10px 10px 0 100px;
+    }
+    .main-nav {
+        font-size: 20px;
+    }
+    
+    .cities-photo img {
+        height: 150px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 18px;
+    }
+    `
+    section {
+        padding: 30px 0;
+    }
+    
+    .main-nav li {
+        margin-left: 15px; 
+        font-size: 18px;
+    }
+    .date {
+        padding: 10px 10px 0 200px;
+    }
+    .row {
+        margin: 0 auto;
+    }
+    .col {
+        width: 90%;
+        padding-left: 8%;
+    }
+    
+    .myCollection-ul li {
+        width: 50%;
+    }
+    
+    .myInspiration-box:last-child {
+        padding-left: 6%;
+    }
+    
+    .cities-photo {
+        width: 46%;
+    }
+    
+    .cities-photo img {
+        width: 110%;
+        height: 150px;
+    }
+    
+    .cities-photo p {
+        font-size: 18px;
+    }
+       
+    .testimonials {
+        width: 30%;
+    }
+    
+    .testimonials-text {
+        padding: 250px 0px 0px 0px;
+        font-size: 16px;
+    }
+    
+    .testimonials-by {
+        font-size: 18px;
+        color: #ffff00;
+        padding-right: 0px;
+    }
+}
+    
+
+
+@media only screen and (max-width: 600px) {
+   
+    body {
+        font-size: 16px;
+    }
+    `
+    section {
+        padding: 20px 0;
+    }
+    
+    .logo {
+        font-size: 24px;
+    }
+    
+    .main-nav li {
+        margin-left: 8px; 
+        font-size: 16px;
+    }
+    
+    .span-box {
+        width: 120%;    
+    }
+    
+    .span-box p {
+        font-size: 16px;    
+    }
+    
+    
+    .date {
+        padding: 10px 20px 0 100px;
+    }
+    
+    .myCollection-ul li {
+        width: 100%;
+    }
+    
+    .myInspiration-box:first-child {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .myInspiration-box:last-child {
+        font-size: 17px;    
+        padding: 0;
+        width: 100%;
+    }
+    
+     .cities-photo {
+        width: 90%;
+    }
+    
+    .cities-photo img {
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cities-photo p {
+        font-size: 17px;
+    }
+    
+    .section-testimonials h2{
+        margin-bottom: 300px;
+    }
+    
+    .testimonials {
+        width: 100%;
+    }
+    
+    .testimonials-text {
+        padding: 0;
+    }
+    
+    .testimonials-by {
+        margin-bottom: 42px;
+    }
+    
+    .aboutMe-text img {
+        width: 110%;
+    }
+    
+    .aboutMe-text {
+        width: 100%;
+        font-size: 16px;
+    }
+    
+    
+}
+
+
+@media only screen and (max-width: 500px) {
+    
+       body {
+        font-size: 14px;
+    }
+    `
+    section {
+        padding: 10px 0;
+    }
+    
+    .logo {
+        font-size: 22px;
+    }
+    
+    .main-nav li {
+        margin-left: 5px; 
+        font-size: 14px;
+        margin-top: 0px;
+        
+    }
+    
+   .btn {
+        font-size: 16px;
+    }
+
+    .span-box {
+        width: 120%;    
+    }
+    
+    .span-box p {
+        font-size: 15px;    
+    }
+    
+    
+    
+    .date {
+        padding: 10px 20px 0 80px;
+    }
+    
+    .myCollection-ul li {
+        width: 100%;
+    }
+    
+    .myInspiration-box:first-child {
+        width: 110%;
+        padding: 0;
+    }
+    
+    .myInspiration-box:last-child {
+        font-size: 17px;    
+        padding: 0;
+        width: 100%;
+    }
+    
+     .cities-photo {
+        width: 100%;
+    }
+    
+    .cities-photo img {
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cities-photo p {
+        font-size: 17px;
+    }
+
+    .section-testimonials h2{
+        margin-bottom: 250px;
+    }
+    
+    .testimonials {
+        width: 100%;
+    }
+    
+    .testimonials-text {
+        padding: 0;
+    }
+    
+    .testimonials-by {
+        margin-bottom: 42px;
+    }
+    
+    .aboutMe-text img {
+        width: 120%;
+    }
+    
+    .aboutMe-text {
+        font-size: 16px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 450px) {
+    
+       body {
+        font-size: 12px;
+    }
+    `
+    section {
+        padding: 6px 0;
+    }
+    
+    .logo {
+        font-size: 20px;
+    }
+    
+    .main-nav li {
+        margin-left: 3px; 
+        font-size: 13px;
+        margin-top: 0px;
+        
+    }
+    
+   .btn {
+        font-size: 16px;
+    }
+    .span-box {
+        width: 110%;    
+    }
+    
+    .span-box p {
+        font-size: 14px;    
+    }
+    
+    .date {
+        padding: 10px 20px 0 80px;
+    }
+    
+    .myCollection-ul li {
+        width: 100%;
+    }
+    
+    .myInspiration-box:first-child {
+        width: 130%;
+        padding: 0 20px 0 0;
+    }
+    
+    .myInspiration-box:last-child {
+        font-size: 15px;    
+        padding: 0;
+        width: 100%;
+    }
+    
+     .cities-photo {
+        width: 100%;
+    }
+    
+    .cities-photo img {
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cities-photo p {
+        font-size: 17px;
+    }
+
+    .section-testimonials h2{
+        margin-bottom: 250px;
+    }
+    
+    .testimonials {
+        width: 100%;
+    }
+    
+    .testimonials-text {
+        padding: 0;
+    }
+    
+    .testimonials-by {
+        margin-bottom: 42px;
+    }
+    
+    .aboutMe-text img {
+        width: 120%;
+    }
+    
+    .aboutMe-text {
+        font-size: 16px;
+    }
+    
+}
+
+
+
+@media only screen and (max-width: 400px) {
+    
+    body {
+        font-size: 10px;
+    }
+    `
+    section {
+        padding: 6px 0;
+    }
+    
+    .logo {
+        font-size: 20px;
+    }
+    
+    .main-nav li {
+        margin-left: 4px; 
+        font-size: 12px;
+        margin-top: 0px;
+        
+    }
+    .btn {
+        font-size: 16px;
+    }
+    
+    .span-box {
+        width: 110%;    
+    }
+    
+    .span-box p {
+        font-size: 13px;    
+    }
+    
+    .date {
+        padding: 10px 20px 0 80px;
+    }
+    
+    .myCollection-ul li {
+        width: 100%;
+    }
+    
+    .myInspiration-box:first-child {
+        width: 120%;
+        padding: 0 0px 0 0;
+        margin: 0 auto;
+    }
+    
+    .myInspiration-box:last-child {
+        font-size: 15px;    
+        padding: 0;
+        width: 100%;
+    }
+    
+     .cities-photo {
+        width: 100%;
+    }
+    
+    .cities-photo img {
+        width: 100%;
+        height: 170px;
+    }
+    
+    .city-name {
+        font-size: 17px;
+    }
+    
+    .cities-photo p {
+        font-size: 17px;
+    }
+
+    .section-testimonials h2{
+        margin-bottom: 250px;
+    }
+    
+    .testimonials {
+        width: 100%;
+    }
+    
+    .testimonials-text {
+        font-size: 14px;
+        padding: 0;
+    }
+    
+    .testimonials-by {
+        margin-bottom: 30px;
+    }
+    
+    .aboutMe-text img {
+        width: 120%;
+    }
+    
+    .aboutMe-text {
+        font-size: 14px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
